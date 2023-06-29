@@ -1,1 +1,3 @@
-# puhelinluettelon_backend
+## Puhelinluettelon backend
+
+Fullstack-kurssin osan 3 tehtävä
